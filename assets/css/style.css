@@ -182,6 +182,7 @@ html {
 body {
   line-height: 1.65;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-size: 1.2em;
   height: 100%;
   width: 100%;
 }
